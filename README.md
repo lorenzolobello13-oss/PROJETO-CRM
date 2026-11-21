@@ -49,7 +49,7 @@ garantindo isolamento de dados por usuário através de políticas de **Row-Leve
 
 ---
 
-##📦 Como executar / Clonar repositório
+## 📦 Como executar / Clonar repositório
 
 1. **Clone o repositório:**
    ```bash
